@@ -1,11 +1,20 @@
 # xRegistry MCP Server
 [![Registry](https://img.shields.io/badge/Registry-SpecWorks-blue)](https://spec-works.github.io/registry/componentgroups/specification-libs/components/xregistry-mcp-server/)
+[![Documentation](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://spec-works.github.io/xRegistry-MCP-Server/)
 
 Model Context Protocol (MCP) server for accessing and searching xRegistry instances.
 
+## 📚 Documentation
+
+**[View Full Documentation →](https://spec-works.github.io/xRegistry-MCP-Server/)**
+
+- [Installation Guide](https://spec-works.github.io/xRegistry-MCP-Server/#installation)
+- [Tools Reference](https://spec-works.github.io/xRegistry-MCP-Server/tools.html)
+- [Usage Guide](https://spec-works.github.io/xRegistry-MCP-Server/usage.html)
+
 ## Overview
 
-This MCP server provides tools for AI assistants to interact with xRegistry-compliant component registries enabling discovery search, and retrieval of software components, schemas, messages, and other resources.
+This MCP server provides tools for AI assistants to interact with xRegistry-compliant component registries enabling discovery, search, and retrieval of software components, schemas, messages, and other resources.
 
 ## Specifications
 

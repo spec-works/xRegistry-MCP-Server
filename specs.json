@@ -1,0 +1,27 @@
+{
+  "linkset": [
+    {
+      "href": "https://github.com/xregistry/spec/blob/main/core/spec.md",
+      "type": "text/markdown",
+      "rel": "describedby",
+      "title": "xRegistry Service - Version 1.0-rc2"
+    },
+    {
+      "href": "https://github.com/xregistry/spec/blob/main/core/http.md",
+      "type": "text/markdown",
+      "rel": "describedby",
+      "title": "xRegistry HTTP Binding"
+    },
+    {
+      "href": "https://spec.modelcontextprotocol.io/specification/",
+      "type": "text/html",
+      "rel": "describedby",
+      "title": "Model Context Protocol Specification"
+    },
+    {
+      "href": "https://spec-works.github.io/registry/componentgroups/specification-libs/components/xregistry-mcp-server/",
+      "rel": "registry",
+      "title": "Component registry entry"
+    }
+  ]
+}

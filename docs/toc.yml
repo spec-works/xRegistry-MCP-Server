@@ -1,0 +1,10 @@
+- name: ← SpecWorks Factory
+  href: https://spec-works.github.io/
+- name: Home
+  href: index.md
+- name: Tools Reference
+  href: tools.md
+- name: Usage Guide
+  href: usage.md
+- name: GitHub
+  href: https://github.com/spec-works/xRegistry-MCP-Server
